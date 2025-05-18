@@ -3,3 +3,5 @@ theme:
   name: mkdocs
 nav:
   - Home: index.md
+site_url: https://peter-sk.github.io/test-mkdocs/
+
