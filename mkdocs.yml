@@ -1,0 +1,5 @@
+site_name: HelloWorldJS
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
